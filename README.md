@@ -31,6 +31,10 @@
 ### MongoDB
 ### InfluxDB
 
+## Auth
+- JWT
+- Authenticator
+
 ## Tools
 - [VScode](https://code.visualstudio.com)
 - [github desktop](https://desktop.github.com)
