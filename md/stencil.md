@@ -4,4 +4,4 @@
 
 ## [Next.js](https://nextjs.org)
 
-[readme](../README.md)
+[index](../index.md)

@@ -46,4 +46,4 @@ func main() {
 - Goは同時250接続でも問題なし、メモリ消費は30M弱
 - GoはJava比で、2.5倍以上の同時接続を1/30のメモリーで実現
 
-[readme](../README.md)
+[index](../index.md)

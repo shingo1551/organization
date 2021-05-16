@@ -1,3 +1,3 @@
 # [MongoDB](https://www.mongodb.com)
 
-[readme](../README.md)
+[index](../index.md)
