@@ -10,7 +10,7 @@
 
 ## DB
 - [MongoDB](./md/mongo.md)
-- [InfulaxDB](./md/influx.md)
+- [InfluxDB](./md/influx.md)
 - [etcd](./md/etcd.md)
 
 ## Cloud

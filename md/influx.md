@@ -1,3 +1,3 @@
-# [InfulaxDB](https://www.influxdata.com)
+# [InfluxDB](https://www.influxdata.com)
 
 [index](../index.md)
