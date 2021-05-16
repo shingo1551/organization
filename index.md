@@ -1,4 +1,4 @@
-# Organization
+# Index
  
 ## Programing Language
 - [TypeScript](./md/typescript.md)
