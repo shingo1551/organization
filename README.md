@@ -31,7 +31,7 @@
 
 ### etcd
 - 高速なKVSで、CoreOSの冗長構成用に使用されている
-- 信頼性の高い冗長構成を組める(Redisは信頼性ナシ)
+- 信頼性の高い冗長構成を組める
 
 ### InfluxDB
 - Time Series DB
@@ -39,6 +39,8 @@
 - Logの収集と分析に適しており、サイズも小さくなる
 
 ## Cloud
+  以下のCloudは、AWS/GCP/Azure などを選択し運用する
+
 ### Mongo Cloud
 ### InfluxDB Clound
 

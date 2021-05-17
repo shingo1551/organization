@@ -1,5 +1,4 @@
 # Auth
-
 - JWT
 - Authenticator
 
